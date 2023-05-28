@@ -147,7 +147,7 @@ Best Acc: 0.9213
 
 ## Contributors
 
-- [Yongjun-Hong]([https://github.com/your_username](https://github.com/yongjun-hong))
+- [Yongjun-Hong](https://github.com/yongjun-hong)
 
 ## License
 
