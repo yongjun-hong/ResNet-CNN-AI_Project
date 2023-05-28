@@ -1,3 +1,15 @@
+## TABLE OF CONTENTS
+
+* [Project Title](#Project Title)
+* [Description](#Description)
+* [Algorithms Used](#Algorithms Used)
+* [Dataset](#Dataset)
+* [Installation](#installation)
+* [Usage](#Usage)
+* [Results](#results)
+* [Contributors](#contributors)
+* [License](#license)
+
 # Project Title
 
 Fashion Image Classification using Transfer Learning and CNN
