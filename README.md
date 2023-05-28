@@ -1,8 +1,8 @@
 ## TABLE OF CONTENTS
 
-* [Project Title](#ProjectTitle)
+* [Project Title](#Project_Title)
 * [Description](#Description)
-* [Algorithms Used](#AlgorithmsUsed)
+* [Algorithms Used](#Algorithms_Used)
 * [Dataset](#Dataset)
 * [Installation](#installation)
 * [Usage](#Usage)
@@ -10,7 +10,7 @@
 * [Contributors](#contributors)
 * [License](#license)
 
-# Project Title
+# Project_Title
 
 Fashion Image Classification using Transfer Learning and CNN
 
@@ -18,7 +18,7 @@ Fashion Image Classification using Transfer Learning and CNN
 
 The dataset used in this project consists of fashion images representing various weather conditions. It encompasses a diverse collection of clothing images captured in different weather scenarios to ensure the model's robustness and generalization.
 
-## Algorithms Used
+## Algorithms_Used
 
 - Transfer Learning: Pre-trained models (e.g., ResNet, VGG, Inception) are used to extract features from fashion images. These features are then fed into the custom CNN model.
 
