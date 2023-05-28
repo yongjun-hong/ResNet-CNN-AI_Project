@@ -34,6 +34,14 @@ The fashion image dataset used in this project is composed of a diverse collecti
 ```
 git clone https://github.com/yongjun-hong/ResNet-CNN-AI_Project.git
 ```
+2. Open Google Colab by visiting colab.research.google.com in your web browser.
+
+3. Click on "File" in the menu and select "Upload Notebook".
+
+4. Upload the .ipynb file from the cloned repository on your local machine.
+
+5. When running the code **file_uploaded=files.upload()**, make sure to select the relevant files from the snownsand directory within the cloned repository.
+
 
 ## Usage
 
