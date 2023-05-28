@@ -1,8 +1,8 @@
 ## TABLE OF CONTENTS
 
-* [Project Title](#Project Title)
+* [Project Title](#ProjectTitle)
 * [Description](#Description)
-* [Algorithms Used](#Algorithms Used)
+* [Algorithms Used](#AlgorithmsUsed)
 * [Dataset](#Dataset)
 * [Installation](#installation)
 * [Usage](#Usage)
