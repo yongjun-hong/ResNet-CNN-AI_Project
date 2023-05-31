@@ -5,7 +5,6 @@
 * [Algorithms Used](#Algorithms_Used)
 * [Dataset](#Dataset)
 * [Installation](#installation)
-* [Usage](#Usage)
 * [Results](#results)
 * [Contributors](#contributors)
 * [License](#license)
@@ -42,23 +41,6 @@ git clone https://github.com/yongjun-hong/ResNet-CNN-AI_Project.git
 
 5. When running the code **file_uploaded=files.upload()**, make sure to select the relevant files from the snownsand directory within the cloned repository.
 
-
-## Usage
-
-1. Prepare the dataset:
-- Place the fashion image dataset in the `data` directory.
-- Ensure the dataset is organized with separate folders for each category.
-
-2. Train the model:
-- Run the `train.py` script to train the fashion image classification model using transfer learning and CNN.
-- Adjust the hyperparameters and model configurations in the script as desired.
-
-3. Evaluate the model:
-- Run the `evaluate.py` script to evaluate the trained model on the test dataset.
-- View the accuracy and performance metrics of the model.
-
-4. Experiment with different settings:
-- Modify the architecture, hyperparameters, or dataset to experiment with different configurations and improve the model's performance.
 
 ## Results
 
@@ -147,7 +129,7 @@ Best Acc: 0.9213
 
 ## Contributors
 
-- [Yongjun-Hong]([https://github.com/your_username](https://github.com/yongjun-hong))
+- [Yongjun-Hong](https://github.com/yongjun-hong)
 
 ## License
 
